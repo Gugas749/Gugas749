@@ -3,7 +3,7 @@
 *  Programming languages
 <p>
 <img alt="Java" src="https://img.shields.io/badge/java-%23151515.svg?style=for-the-badge&logo=openjdk&logoColor=red"/>
-<img alt="C++" src="https://img.shields.io/badge/cplusplus&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/C++-151515?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/CS-151515?style=for-the-badge&logo=c#&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=blue"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
