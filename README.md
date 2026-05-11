@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+*  Programming languages
+<p>
+<img alt="Java" src="https://img.shields.io/badge/java-%23151515.svg?style=for-the-badge&logo=openjdk&logoColor=red"/>
+<img alt="C++" src="https://img.shields.io/badge/cplusplus-151515?style=for-the-badge&logo=c&logoColor=turquoise"/>
+<img alt="C#" src="https://img.shields.io/badge/CS-151515?style=for-the-badge&logo=c#&logoColor=turquoise"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=blue"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
 <!--
 **Gugas749/Gugas749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
